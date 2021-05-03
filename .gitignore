@@ -11,3 +11,5 @@ yarn.lock
 .awcache
 public
 .env
+
+.DS_Store
